@@ -17,3 +17,4 @@ class profile::website {
     source  => 'puppet:///modules/profile/demo-website/',
   }
 }
+
